@@ -1,0 +1,16 @@
+se placer dans un dossier puis faire 
+
+git init :: crée un nouveau repo en local
+git add nom_fichier [ou dossier] :: ajoute un fichier à la liste des fichiers à versionner
+git commit -m "Commentaire du commit" :: effectue un commit
+git commit -a -m "Commentaire du commit" :: effectue un commit sur un [des] fichiers déjà ajouté
+git log :: affiche la liste des commit éffectués par ordre récent
+git checkout CodeSHAduCommit :: se positioner sur un commit
+git checkout master :: se position sur dernier commit
+git revert CodeSHAduCommit :: Annuler un commit
+git commit --amend -m "Nouveau commentaire" :: Mettre à jour le commentaire d'un commit
+git reset --hard :: Annuler tous les changements non encore commité
+
+git clone LienDuGit :: télécharge un git (repo) à partir d'un site distant en local
+git push origin master :: upload un repo sur un site distant (site d'origine)
+git pull origin master :: met à jour son repo local avec les commit existant en remote mais pas en ocal
