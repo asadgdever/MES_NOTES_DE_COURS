@@ -20,3 +20,5 @@ git branch nouvelle-branche :: Pour créer une nouvelle branche
 git checkout nouvelle-branche
 
 git checkout -b ma-branche :: pour créer une branche et vous y positionner
+
+git merge brancheB : ajouter  dans une branche A les mises à jour que vous avez faites dans une autre branche B. (cette commande suppose que vous êtes positionné dans la brache A)
