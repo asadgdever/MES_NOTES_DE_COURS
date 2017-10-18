@@ -1,0 +1,32 @@
+CHAPITRE 1
+Au démarrage d'un ordinateur, on a :
+    écran de boot ;
+    démarrage du système d'exploitation (Windows / linux / etc ...) ;
+    lancement des programmes (jeux, Internet, mail…).
+
+
+GRUB est aussi appelé Boot Loader
+
+
+Le système d'exploitation est l'outil qui fait le lien entre votre machine et vos programmes.
+
+Windows, Mac OS et Linux sont les systèmes d'exploitation les plus connus.
+
+Linux a la particularité d'être libre, c'est-à-dire que son code source (sa recette de fabrication) est ouvert : tout le monde peut le consulter. Par opposition, le code source qui a permis de concevoir Windows et Mac OS est fermé, on dit que ce sont des systèmes d'exploitation propriétaires.
+
+Il existe de nombreuses variantes de Linux, que l'on appelle distributions.
+
+Ubuntu est une des distributions les plus populaires à l'heure actuelle.
+
+CHAPITRE 2
+
+Sous linux nous avons deux mode de fonctionnement : 
+le mode console (très puissant)
+le mode graphique
+
+iI ya pluseiurs modes graphiques tous basés sur un programme appelé X (brique de base du mode graphique).
+
+les gestionnaires de bureau (Unity, Gnome, KDE, XFCE)
+
+CHAPITRE 3
+
