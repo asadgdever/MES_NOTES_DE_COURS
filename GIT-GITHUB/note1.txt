@@ -14,3 +14,9 @@ git reset --hard :: Annuler tous les changements non encore commité
 git clone LienDuGit :: télécharge un git (repo) à partir d'un site distant en local
 git push origin master :: upload un repo sur un site distant (site d'origine)
 git pull origin master :: met à jour son repo local avec les commit existant en remote mais pas en ocal
+
+git branch :: Pour voir les branches présentes dans votre repo
+git branch nouvelle-branche :: Pour créer une nouvelle branche
+git checkout nouvelle-branche
+
+git checkout -b ma-branche
