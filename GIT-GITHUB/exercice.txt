@@ -1,0 +1,4 @@
+Commit : enregistrement effectif des modifications effectuées sur les fichiers d'un repository
+Git log sert à afficher la liste de tous les commit éffectués dans un repository (celui dans lequel nous nous retrouvons).
+Une branche : c'est un pointeur sur un commit.
+
