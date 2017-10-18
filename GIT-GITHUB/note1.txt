@@ -22,3 +22,31 @@ git checkout nouvelle-branche
 git checkout -b ma-branche :: pour créer une branche et vous y positionner
 
 git merge brancheB : ajouter  dans une branche A les mises à jour que vous avez faites dans une autre branche B. (cette commande suppose que vous êtes positionné dans la brache A)
+
+git blame nomdufichier.extension :: retrouver qui a fait une modification particulière dans un fichier
+git show debut_du_sha :: renvoie directement les détails d'un commit
+
+
+git stash :: mettre de côté des modifications en cours...
+git stash pop :: reprendre des modifications mises de côté.
+git stash apply :: garder les modifications dans votre stash
+
+
+ pull request : proposer une modification à un projet hébergé sur GitHub.
+
+Contribuez à des projets open source
+	- Tout d'abord, faites un fork du repo auquel vous souhaitez contribuer
+	- Ensuite, clonez votre copie depuis GitHub sur votre machine
+	- créez une nouvelle branche où vous allez faire vos modifications et placez-vous dedans.
+	- Faites vos modifications dans la nouvelle branche et "committez"-les dans Git
+	- Envoyez vos modifications sur GitHub en faisant un git push de votre nouvelle branche
+	- Faire un puul Request (placez-vous sur votre fork GitHub, sur votre nouvelle branche, et cliquez sur "Compare & pull request").
+	
+	
+    	Fork it
+    	Create your feature branch (git checkout -b my-new-feature)
+    	Commit your changes (git commit -am 'Add some feature')
+    	Push to the branch (git push origin my-new-feature)
+    	Create new Pull Request
+
+
