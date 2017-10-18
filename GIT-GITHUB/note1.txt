@@ -19,4 +19,4 @@ git branch :: Pour voir les branches présentes dans votre repo
 git branch nouvelle-branche :: Pour créer une nouvelle branche
 git checkout nouvelle-branche
 
-git checkout -b ma-branche
+git checkout -b ma-branche :: pour créer une branche et vous y positionner
